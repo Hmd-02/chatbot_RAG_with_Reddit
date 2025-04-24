@@ -85,8 +85,13 @@ pip install -r requirements.txt
 python chatbot.ipynb  # ou via Jupyter
 ```
 
----
+Pour exécuter le projet (sur kaggle) :
+1. Télécharger et importer la base de données ainsi que le modèle pré-entrainé en téléchargeant cette base [base-de-reddit](https://www.kaggle.com/datasets/ouedraogocheickhamed/base-de-reddit). Vous devez l'utiliser dans vos inputs pour l'étape 2.  
+  
+2. Ouvrir le script `chatbot` dans kaggle en veillant bien à ce que la base (base-de-reddit) soit dans les datasets.
+3. Lancer le gpu de kaggle, exécuter le script en entier et profiter de votre expérience avec Teknoloogiaa !
 
+   
 ## 💡 Objectifs
 
 Ce projet s’inscrit dans une logique d’apprentissage (projet du cours de NLP) autour de :
